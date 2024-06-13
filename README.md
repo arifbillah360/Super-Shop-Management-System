@@ -1,12 +1,12 @@
-# over view
+# Overview
 The Super Shop Management System is designed to handle basic operations for a retail shop, including inventory management, sales tracking, and reporting. It provides a text-based interface for shopkeepers to manage products, process sales, and generate simple reports.
 
 # feature 
-User Authentication
-Inventory Management
-Product Sales
-Product Management
-Multiple Product Option
+User Authentication,
+Inventory Management,
+Product Sales,
+Product Management,
+Multiple Product Option,
 Intuitive GUI
 
 # conclusion 
